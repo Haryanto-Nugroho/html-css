@@ -11,7 +11,7 @@ body {
 .container-nb {
     padding: 0 30px 0 30px;
     background-color: #06061f;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    /* box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4); */
     /* YOU CAN DELETE THIS WIDTH FOR NAVBAR TOP */
     width: 1000px;
     border-radius: 50px;
